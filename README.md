@@ -1,7 +1,7 @@
 # A Rényi-Divergence-Based Family of Metrics for the Evaluation of Surrogate Endpoints in a Causal Inference Framework
 
 ## Project Description
-In this project, we extend the Individual Causal Association (ICA) proposed by Alonso et al. (2015) by a new family of surrogacy metrics derived from Rényi divergence. We evaluate the performance of this extended family through simulation studies and application using clinical trial data from schizophrenia data.
+In this project, we extend the Individual Causal Association (ICA) proposed by Alonso et al. (2015) by a new family of surrogacy metrics derived from Rényi divergence. We evaluate the performance of this extended family through simulation studies and application using clinical trial data from schizophrenia data. In additon, this project is part of my PhD research, which focuses on the evaluation of the surrogate endpoints.
 
 ## Table of Contents
 - [Installation](#installation)
