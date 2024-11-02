@@ -11,10 +11,11 @@ In this project, we extend the Individual Causal Association (ICA) proposed by A
 ## Installation
 To set up the project, ensure you have R installed and then install the following packages:
 
+```
 install.packages("Surrogate") 
 install.packages("MASS")
 install.packages("pracma")
-
+```
 
 ## Usage
 
